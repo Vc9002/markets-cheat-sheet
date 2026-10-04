@@ -5,3 +5,4 @@ __pycache__/
 data/snapshot.json
 data/history.csv
 logs/
+artifact.html
